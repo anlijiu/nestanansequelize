@@ -1,0 +1,2 @@
+# nestanansequelize
+sequelize for nestjs
